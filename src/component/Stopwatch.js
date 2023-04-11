@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Buttons from "./Buttons/Buttons";
+import Buttons from "./Stopwatch-buttons/Stopwatch-buttons.js";
 import '../component-css/stopwatch.css';
 
 export default function Stopwatch() {
